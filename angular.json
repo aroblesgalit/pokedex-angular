@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pokedex-angular"
+    }
+  },
+  "defaultProject": "pokedex-angular",
+  "cli": {
+    "analytics": "33502df1-86ae-44ab-a28d-c4f3fb87258d"
+  }
 }
